@@ -1,0 +1,9 @@
+body {
+    height: 800;
+    background-image: url(/img/image3.jpg);
+    background-size: cover;
+    background-size: 150rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+  }
